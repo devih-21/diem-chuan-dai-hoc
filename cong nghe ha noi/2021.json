@@ -1,0 +1,68 @@
+[
+  {
+    "code": "CN1",
+    "nganh": "Công nghệ thông tin",
+    "khoi": "A00; A01",
+    "diem": "28.75"
+  },
+  {
+    "code": "CN2",
+    "nganh": "Máy tính và Robot",
+    "khoi": "A00; A01",
+    "diem": "27.65"
+  },
+  {
+    "code": "CN3",
+    "nganh": "Vật lý kỹ thuật",
+    "khoi": "A00; A01",
+    "diem": "25.4"
+  },
+  {
+    "code": "CN4",
+    "nganh": "Cơ kỹ thuật",
+    "khoi": "A00; A01",
+    "diem": "26.2"
+  },
+  {
+    "code": "CN5",
+    "nganh": "Công nghệ kỹ thuật xây dựng",
+    "khoi": "A00; A01",
+    "diem": "24.5"
+  },
+  {
+    "code": "CN7",
+    "nganh": "Công nghệ hàng không vũ trụ",
+    "khoi": "A00; A01",
+    "diem": "25.5"
+  },
+  {
+    "code": "CN10",
+    "nganh": "Công nghệ nông nghiệp",
+    "khoi": "A00; A01; A02; B00",
+    "diem": "23.55"
+  },
+  {
+    "code": "CN11",
+    "nganh": "Kỹ thuật điều khiển và tự động hóa",
+    "khoi": "A00; A01",
+    "diem": "27.75"
+  },
+  {
+    "code": "CN6",
+    "nganh": "Công nghệ kỹ thuật cơ điện tử (CLC)",
+    "khoi": "A00; A01",
+    "diem": "25.9"
+  },
+  {
+    "code": "CN8",
+    "nganh": "Công nghệ thông tin (CLC)",
+    "khoi": "A00; A01",
+    "diem": "27.9"
+  },
+  {
+    "code": "CN9",
+    "nganh": "Công nghệ kỹ thuật điện tử – viễn thông (CLC)",
+    "khoi": "A00; A01",
+    "diem": "26.55"
+  }
+]

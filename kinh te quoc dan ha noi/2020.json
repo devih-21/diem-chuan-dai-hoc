@@ -1,0 +1,320 @@
+[
+  {
+    "code": "7220201",
+    "nganh": "Ngôn ngữ Anh",
+    "khoi": "A01;  D01;  D09;  D10",
+    "diem": "35.6"
+  },
+  {
+    "code": "7310101",
+    "nganh": "Kinh tế",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.9"
+  },
+  {
+    "code": "7310104",
+    "nganh": "Kinh tế đầu tư",
+    "khoi": "A00;  A01;  D01;  B00",
+    "diem": "27.05"
+  },
+  {
+    "code": "7310105",
+    "nganh": "Kinh tế phát triển",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.75"
+  },
+  {
+    "code": "7310106",
+    "nganh": "Kinh tế Quốc tế",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.75"
+  },
+  {
+    "code": "7310107",
+    "nganh": "Thống kê kinh tế",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.45"
+  },
+  {
+    "code": "7310108",
+    "nganh": "Toán kinh tế",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.45"
+  },
+  {
+    "code": "7320108",
+    "nganh": "Quan hệ công chúng",
+    "khoi": "A01;  D01;  C03;  C04",
+    "diem": "27.6"
+  },
+  {
+    "code": "7340101",
+    "nganh": "Quản trị kinh doanh",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.2"
+  },
+  {
+    "code": "7340115",
+    "nganh": "Marketing",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.55"
+  },
+  {
+    "code": "7340116",
+    "nganh": "Bất động sản",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.55"
+  },
+  {
+    "code": "7340120",
+    "nganh": "Kinh doanh Quốc tế",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.8"
+  },
+  {
+    "code": "7340121",
+    "nganh": "Kinh doanh thương mại",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.25"
+  },
+  {
+    "code": "7340122",
+    "nganh": "Thương mại Điện tử",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.65"
+  },
+  {
+    "code": "7340204",
+    "nganh": "Bảo hiểm",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26"
+  },
+  {
+    "code": "7340301",
+    "nganh": "Kế toán",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.15"
+  },
+  {
+    "code": "7340302",
+    "nganh": "Kiểm toán",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.55"
+  },
+  {
+    "code": "7340401",
+    "nganh": "Khoa học quản lý",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.25"
+  },
+  {
+    "code": "7340403",
+    "nganh": "Quản lý công",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.15"
+  },
+  {
+    "code": "7340404",
+    "nganh": "Quản trị nhân lực",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.1"
+  },
+  {
+    "code": "7340405",
+    "nganh": "Hệ thống thông tin quản lý",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.75"
+  },
+  {
+    "code": "7340409",
+    "nganh": "Quản lý dự án",
+    "khoi": "A00;  A01;  D01;  B00",
+    "diem": "26.75"
+  },
+  {
+    "code": "7380101",
+    "nganh": "Luật",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.2"
+  },
+  {
+    "code": "7380107",
+    "nganh": "Luật Kinh tế",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.65"
+  },
+  {
+    "code": "7480101",
+    "nganh": "Khoa học máy tính",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.4"
+  },
+  {
+    "code": "7480201",
+    "nganh": "Công nghệ thông tin",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.6"
+  },
+  {
+    "code": "7510605",
+    "nganh": "Logistics và Quản lý chuỗi cung ứng",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "28"
+  },
+  {
+    "code": "7620115",
+    "nganh": "Kinh tế nông nghiệp",
+    "khoi": "A00;  A01;  D01;  B00",
+    "diem": "25.65"
+  },
+  {
+    "code": "7810103",
+    "nganh": "Quản trị dịch vụ du lịch và lữ hành",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.7"
+  },
+  {
+    "code": "7810201",
+    "nganh": "Quản trị khách sạn",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.25"
+  },
+  {
+    "code": "7850101",
+    "nganh": "Quản lý tài nguyên và môi trường A49",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "25.6"
+  },
+  {
+    "code": "7850102",
+    "nganh": "Kinh tế tài nguyên thiên nhiên",
+    "khoi": "A00;  A01;  D01;  B00",
+    "diem": "25.6"
+  },
+  {
+    "code": "7850103",
+    "nganh": "Quản lý đất đai",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "25.85"
+  },
+  {
+    "code": "CT1",
+    "nganh": "Ngân hàng",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.95"
+  },
+  {
+    "code": "CT2",
+    "nganh": "Tài chính công",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.55"
+  },
+  {
+    "code": "CT3",
+    "nganh": "Tài chính Doanh nghiệp",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "27.25"
+  },
+  {
+    "code": "EBBA",
+    "nganh": "Quản trị kinh doanh (E-BBA)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.25"
+  },
+  {
+    "code": "EP01",
+    "nganh": "Khởi nghiệp và phát triển kinh doanh ( BBAE)",
+    "khoi": "A01;  D01;  D07;  D09",
+    "diem": "33.35"
+  },
+  {
+    "code": "EP02",
+    "nganh": "Định phí bảo hiểm và Quản trị rủi ro ( Actuary)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "25.85"
+  },
+  {
+    "code": "EP03",
+    "nganh": "Khoa học dữ liệu trong Kinh tế và Kinh doanh(DSEB)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "25.8"
+  },
+  {
+    "code": "EP04",
+    "nganh": "Kế toán tích hợp chứng chỉ Quốc tế ( ACT-ICAEW)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.5"
+  },
+  {
+    "code": "EP05",
+    "nganh": "Kinh doanh số(E_BDB)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.1"
+  },
+  {
+    "code": "EP06",
+    "nganh": "Phân tích Kinh Doanh (BA)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.3"
+  },
+  {
+    "code": "EP07",
+    "nganh": "Quản trị điều hành thông minh(E-SOM)",
+    "khoi": "A01;  D01;  D07; D10",
+    "diem": "26"
+  },
+  {
+    "code": "EP08",
+    "nganh": "Quản trị chất lượng và đổi mới ( E-MQI)",
+    "khoi": "A01;  D01;  D07; D10",
+    "diem": "25.75"
+  },
+  {
+    "code": "EP09",
+    "nganh": "Công nghệ tài chính (BFT)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "25.75"
+  },
+  {
+    "code": "EP10",
+    "nganh": "Đầu tư tài chính (BFI)",
+    "khoi": "A01;  D01;  D07;  D10",
+    "diem": "34.55"
+  },
+  {
+    "code": "EP11",
+    "nganh": "Quản trị khách sạn quốc tế (IHME)",
+    "khoi": "A01;  D01;  D09;  D10",
+    "diem": "34.5"
+  },
+  {
+    "code": "EP12",
+    "nganh": "Kiểm toán tích hợp chứng chỉ quốc tế (AUD_ICAEW)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "26.65"
+  },
+  {
+    "code": "EP13",
+    "nganh": "Kinh tế học Tài chính (FE)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "24.5"
+  },
+  {
+    "code": "EP14",
+    "nganh": "Logistics và Quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế(LSIC)",
+    "khoi": "A01;  D01;  D07;  D10",
+    "diem": "35.55"
+  },
+  {
+    "code": "EPMP",
+    "nganh": "Quản lý công và Chính sách (E_PMP)",
+    "khoi": "A00;  A01;  D01;  D07",
+    "diem": "25.35"
+  },
+  {
+    "code": "POHE",
+    "nganh": "Các chương trình định hướng ứng dụng (POHE)",
+    "khoi": "A01;  D01;  D07;  D09",
+    "diem": "34.25"
+  }
+]

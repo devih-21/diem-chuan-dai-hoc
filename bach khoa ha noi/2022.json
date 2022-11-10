@@ -1,0 +1,332 @@
+[
+  {
+    "code": "BF1y",
+    "nganh": "Kỹ thuật Sinh học",
+    "khoi": "A00; B00; D07",
+    "diem": "23.25"
+  },
+  {
+    "code": "BF2y",
+    "nganh": "Kỹ thuật Thực phẩm",
+    "khoi": "A00; B00; D07",
+    "diem": "23.35"
+  },
+  {
+    "code": "BF-E12y",
+    "nganh": "Kỹ thuật Thực phẩm (CT tiên tiến)",
+    "khoi": "A00; B00; D07",
+    "diem": "23.35"
+  },
+  {
+    "code": "CH1Y",
+    "nganh": "Kỹ thuật Hoá học",
+    "khoi": "A00; B00; D07",
+    "diem": "23.03"
+  },
+  {
+    "code": "CH2y",
+    "nganh": "Hoá học",
+    "khoi": "A00; B00; D07",
+    "diem": "23.03"
+  },
+  {
+    "code": "CH3y",
+    "nganh": "Kỹ thuật in",
+    "khoi": "A00; B00; D07",
+    "diem": "23.03"
+  },
+  {
+    "code": "CH-E11y",
+    "nganh": "Kỹ thuật Hóa dược (CT tiên tiến)",
+    "khoi": "A00; B00; D07",
+    "diem": "23.7"
+  },
+  {
+    "code": "ED2y",
+    "nganh": "Công nghệ giáo dục",
+    "khoi": "A00; A01; D01",
+    "diem": "23.15"
+  },
+  {
+    "code": "EE1y",
+    "nganh": "Kỹ thuật Điện",
+    "khoi": "A00; A01",
+    "diem": "23.05"
+  },
+  {
+    "code": "EE2y",
+    "nganh": "Kỹ thuật Điều khiển - Tự động hoá",
+    "khoi": "A00; A01",
+    "diem": "27.61"
+  },
+  {
+    "code": "EE-E18y",
+    "nganh": "Hệ thống điện và năng lượng tái tạo\n(CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "23.55"
+  },
+  {
+    "code": "EE-E8y",
+    "nganh": "Kỹ thuật Điều khiển - Tự động hoá\n(CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "25.99"
+  },
+  {
+    "code": "EE-Epy",
+    "nganh": "Tin học công nghiệp và Tự động hóa\n(Chương trình Việt - Pháp PFIEV)",
+    "khoi": "A00; A01; D29",
+    "diem": "23.99"
+  },
+  {
+    "code": "EM1y",
+    "nganh": "Kinh tế công nghiệp",
+    "khoi": "A00; A01; D01",
+    "diem": "24.3"
+  },
+  {
+    "code": "EM2y",
+    "nganh": "Quản lý công nghiệp",
+    "khoi": "A00; A01; D01",
+    "diem": "23.3"
+  },
+  {
+    "code": "EM3y",
+    "nganh": "Quản trị kinh doanh",
+    "khoi": "A00; A01; D01",
+    "diem": "25.35"
+  },
+  {
+    "code": "EM4y",
+    "nganh": "Kế toán",
+    "khoi": "A00; A01; D01",
+    "diem": "25.2"
+  },
+  {
+    "code": "EM5y",
+    "nganh": "Tài chính - Ngân hàng",
+    "khoi": "A00; A01; D01",
+    "diem": "25.2"
+  },
+  {
+    "code": "EM-E13y",
+    "nganh": "Phân tích kinh doanh (CT tiên tiến)",
+    "khoi": "D07; A01; D01",
+    "diem": "24.18"
+  },
+  {
+    "code": "EM-E14y",
+    "nganh": "Logistics và Quản lý chuỗi cung ứng\n(CT tiên tiến)",
+    "khoi": "D07; A01; D01",
+    "diem": "24.51"
+  },
+  {
+    "code": "ET1y",
+    "nganh": "Kỹ thuật Điện tử - Viễn thông",
+    "khoi": "A00; A01",
+    "diem": "24.5"
+  },
+  {
+    "code": "ET2y",
+    "nganh": "Kỹ thuật Y sinh (mới)",
+    "khoi": "A00; A01",
+    "diem": "23.15"
+  },
+  {
+    "code": "ET-E16y",
+    "nganh": "Truyền thông số và Kỹ thuật đa phương tiện\n(CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "24.71"
+  },
+  {
+    "code": "ET-E4y",
+    "nganh": "Kỹ thuật Điện tử - Viễn thông\n(CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "24.19"
+  },
+  {
+    "code": "ET-E5y",
+    "nganh": "Kỹ thuật Y sinh (CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "23.89"
+  },
+  {
+    "code": "ET-E9y",
+    "nganh": "Hệ thống nhúng thông minh và IoT\n(CT tiên tiến)",
+    "khoi": "A00; A01; D28",
+    "diem": "24.14"
+  },
+  {
+    "code": "ET-LUHY",
+    "nganh": "Điện tử - Viễn thông - hợp tác với ĐH Leibniz\nHannover (Đức)",
+    "khoi": "A00; A01; D26",
+    "diem": "23.15"
+  },
+  {
+    "code": "EV1y",
+    "nganh": "Kỹ thuật Môi trường",
+    "khoi": "A00; B00; D07",
+    "diem": "23.03"
+  },
+  {
+    "code": "EV2y",
+    "nganh": "Quản lý tài nguyên và môi trường",
+    "khoi": "A00; B00; D07",
+    "diem": "23.03"
+  },
+  {
+    "code": "FL1y",
+    "nganh": "Tiếng Anh KHKT và Công nghệ",
+    "khoi": "D01",
+    "diem": "23.06"
+  },
+  {
+    "code": "FL2y",
+    "nganh": "Tiếng Anh chuyên nghiệp quốc tế",
+    "khoi": "D01",
+    "diem": "23.06"
+  },
+  {
+    "code": "HE1y",
+    "nganh": "Kỹ thuật Nhiệt",
+    "khoi": "A00; A01",
+    "diem": "23.26"
+  },
+  {
+    "code": "IT2y",
+    "nganh": "CNTT: Kỹ thuật Máy tính",
+    "khoi": "A00; A01",
+    "diem": "28.29"
+  },
+  {
+    "code": "IT-E6y",
+    "nganh": "Công nghệ thông tin (Việt - Nhật)",
+    "khoi": "A00; A01",
+    "diem": "27.25"
+  },
+  {
+    "code": "ME1y",
+    "nganh": "Kỹ thuật Cơ điện tử",
+    "khoi": "A00; A01",
+    "diem": "26.33"
+  },
+  {
+    "code": "ME2y",
+    "nganh": "Kỹ thuật Cơ khí",
+    "khoi": "A00; A01",
+    "diem": "23.5"
+  },
+  {
+    "code": "ME-E1y",
+    "nganh": "Kỹ thuật Cơ điện tử (CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "24.28"
+  },
+  {
+    "code": "ME-Guy",
+    "nganh": "Cơ khí - Chế tạo máy - hợp tác với ĐH Griffith (Úc)",
+    "khoi": "A00; A01",
+    "diem": "23.36"
+  },
+  {
+    "code": "ME-LUHy",
+    "nganh": "Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức)",
+    "khoi": "A00; A01; D26",
+    "diem": "23.29"
+  },
+  {
+    "code": "ME-NUTy",
+    "nganh": "Cơ điện tử - hợp tác với ĐHCN Nagaoka (Nhật Bản)",
+    "khoi": "A00; A01; D28",
+    "diem": "23.21"
+  },
+  {
+    "code": "MI1y",
+    "nganh": "Toán - Tin",
+    "khoi": "A00; A01",
+    "diem": "26.45"
+  },
+  {
+    "code": "MI2y",
+    "nganh": "Hệ thống thông tin quản lý",
+    "khoi": "A00; A01",
+    "diem": "26.54"
+  },
+  {
+    "code": "MS1y",
+    "nganh": "Kỹ thuật Vật liệu",
+    "khoi": "A00; A01; D07",
+    "diem": "23.16"
+  },
+  {
+    "code": "MS-E3y",
+    "nganh": "KHKT Vật liệu (CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "23.16"
+  },
+  {
+    "code": "PH1y",
+    "nganh": "Vật lý kỹ thuật",
+    "khoi": "A00; A01",
+    "diem": "23.29"
+  },
+  {
+    "code": "PH2y",
+    "nganh": "Kỹ thuật hạt nhân",
+    "khoi": "A00; A01; A02",
+    "diem": "23.29"
+  },
+  {
+    "code": "PH3y",
+    "nganh": "Vật lý y khoa",
+    "khoi": "A00; A01; A02",
+    "diem": "23.29"
+  },
+  {
+    "code": "TE1y",
+    "nganh": "Kỹ thuật Ô tô",
+    "khoi": "A00; A01",
+    "diem": "26.41"
+  },
+  {
+    "code": "TE2y",
+    "nganh": "Kỹ thuật Cơ khí động lực",
+    "khoi": "A00; A01",
+    "diem": "24.16"
+  },
+  {
+    "code": "TE3y",
+    "nganh": "Kỹ thuật Hàng không",
+    "khoi": "A00; A01",
+    "diem": "24.23"
+  },
+  {
+    "code": "TE-E2y",
+    "nganh": "Kỹ thuật Ô tô (CT tiên tiến)",
+    "khoi": "A00; A01",
+    "diem": "24.06"
+  },
+  {
+    "code": "TE-Epy",
+    "nganh": "Cơ khí hàng không (Chương trình Việt - Pháp PFIEV)",
+    "khoi": "A00; A01; D29",
+    "diem": "23.55"
+  },
+  {
+    "code": "TROY-Bay",
+    "nganh": "Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ)",
+    "khoi": "A00; A01; D01",
+    "diem": "23.4"
+  },
+  {
+    "code": "TROY-ITy",
+    "nganh": "Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ)",
+    "khoi": "A00; A01; D01",
+    "diem": "25.15"
+  },
+  {
+    "code": "TX1y",
+    "nganh": "Kỹ thuật Dệt - May",
+    "khoi": "A00; A01",
+    "diem": "23.1"
+  }
+]

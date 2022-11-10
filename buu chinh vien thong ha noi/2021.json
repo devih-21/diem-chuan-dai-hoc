@@ -1,0 +1,68 @@
+[
+  {
+    "code": "7520207",
+    "nganh": "Kỹ thuật Điện tử viễn thông",
+    "khoi": "A00; A01",
+    "diem": "25.65"
+  },
+  {
+    "code": "7510301",
+    "nganh": "Công nghệ kỹ thuật Điện, điện tử",
+    "khoi": "A00; A01",
+    "diem": "25.35"
+  },
+  {
+    "code": "7480201",
+    "nganh": "Công nghệ thông tin",
+    "khoi": "A00; A01",
+    "diem": "26.9"
+  },
+  {
+    "code": "7480202",
+    "nganh": "An toàn thông tin",
+    "khoi": "A00; A01",
+    "diem": "26.55"
+  },
+  {
+    "code": "7329001",
+    "nganh": "Công nghệ đa phương tiện",
+    "khoi": "A00; A01; D01",
+    "diem": "26.35"
+  },
+  {
+    "code": "7320104",
+    "nganh": "Truyền thông đa phương tiện",
+    "khoi": "A00; A01; D01",
+    "diem": "26.55"
+  },
+  {
+    "code": "7340101",
+    "nganh": "Quản trị kinh doanh",
+    "khoi": "A00; A01; D01",
+    "diem": "25.9"
+  },
+  {
+    "code": "7340122",
+    "nganh": "Thương mại điện tử",
+    "khoi": "A00; A01; D01",
+    "diem": "26.5"
+  },
+  {
+    "code": "7340115",
+    "nganh": "Marketing",
+    "khoi": "A00; A01; D01",
+    "diem": "26.45"
+  },
+  {
+    "code": "7340301",
+    "nganh": "Kế toán",
+    "khoi": "A00; A01; D01",
+    "diem": "25.75"
+  },
+  {
+    "code": "7340208",
+    "nganh": "Công nghệ Tài chính",
+    "khoi": "A00; A01; D01",
+    "diem": "25.9"
+  }
+]

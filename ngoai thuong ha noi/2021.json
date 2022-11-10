@@ -1,0 +1,50 @@
+[
+  {
+    "code": "NTH01-01",
+    "nganh": "Nhóm ngành Luật",
+    "khoi": "A00",
+    "diem": "27"
+  },
+  {
+    "code": "NTH01-02",
+    "nganh": "Nhóm ngành (Kinh tế - Kinh; tế Quốc tế)",
+    "khoi": "A00",
+    "diem": "28"
+  },
+  {
+    "code": "NTH02",
+    "nganh": "Nhóm ngành (Quản trị kinh doanh, Kinh doanh quốc tế , Quản trị khách sạn)",
+    "khoi": "A00",
+    "diem": "27.95"
+  },
+  {
+    "code": "NTH03",
+    "nganh": "Nhóm ngành (Tài chính - Ngân Hàng; Kế toán)",
+    "khoi": "A00",
+    "diem": "27.65"
+  },
+  {
+    "code": "NTH04",
+    "nganh": "Nhóm ngành Ngôn ngữ Anh",
+    "khoi": "D01",
+    "diem": "36.25"
+  },
+  {
+    "code": "NTH05",
+    "nganh": "Nhóm ngành Ngôn Ngữ Pháp",
+    "khoi": "D01",
+    "diem": "34.8"
+  },
+  {
+    "code": "NTH06",
+    "nganh": "Nhóm ngành Ngôn ngữ Trung",
+    "khoi": "D01",
+    "diem": "36.6"
+  },
+  {
+    "code": "NTH07",
+    "nganh": "Nhóm ngành Ngôn ngữ Nhật",
+    "khoi": "D01",
+    "diem": "35.9"
+  }
+]

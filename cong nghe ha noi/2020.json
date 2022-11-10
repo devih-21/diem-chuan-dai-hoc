@@ -1,0 +1,68 @@
+[
+  {
+    "code": "CN1",
+    "nganh": "Công nghệ thông tin",
+    "khoi": "",
+    "diem": "28.1"
+  },
+  {
+    "code": "CN2",
+    "nganh": "Máy tính và Robot",
+    "khoi": "",
+    "diem": "27.25"
+  },
+  {
+    "code": "CN3",
+    "nganh": "Vật lý kỹ thuật",
+    "khoi": "",
+    "diem": "25.1"
+  },
+  {
+    "code": "CN4",
+    "nganh": "Cơ kỹ thuật",
+    "khoi": "",
+    "diem": "26.5"
+  },
+  {
+    "code": "CN5",
+    "nganh": "Công nghệ kỹ thuật xây dựng",
+    "khoi": "",
+    "diem": "24"
+  },
+  {
+    "code": "CN7",
+    "nganh": "Công nghệ hàng không vũ trụ",
+    "khoi": "",
+    "diem": "25.35"
+  },
+  {
+    "code": "CN10",
+    "nganh": "Công nghệ nông nghiệp",
+    "khoi": "",
+    "diem": "22.4"
+  },
+  {
+    "code": "CN11",
+    "nganh": "Kỹ thuật điều khiển và tự động hóa",
+    "khoi": "",
+    "diem": "27.55"
+  },
+  {
+    "code": "CN6",
+    "nganh": "Công nghệ kỹ thuật cơ điện tử (CLC)",
+    "khoi": "",
+    "diem": "25.7"
+  },
+  {
+    "code": "CN8",
+    "nganh": "Công nghệ thông tin (CLC)",
+    "khoi": "",
+    "diem": "27"
+  },
+  {
+    "code": "CN9",
+    "nganh": "Công nghệ kỹ thuật điện tử - viễn thông (CLC)",
+    "khoi": "",
+    "diem": "26"
+  }
+]
